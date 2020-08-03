@@ -1,0 +1,16 @@
+PODS:
+  - WZLottie (0.1.0)
+
+DEPENDENCIES:
+  - WZLottie (from `../`)
+
+EXTERNAL SOURCES:
+  WZLottie:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZLottie: 2cfa4e5656006216c7435b88f5c1cb6fceb304db
+
+PODFILE CHECKSUM: 4bf92070b57b96633c69ea757eb8ac9ae3dc0891
+
+COCOAPODS: 1.9.1
